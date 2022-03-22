@@ -1,6 +1,3 @@
-/** Styles */
-import './App.css';
-
 /** Components */
 import Home from './Pages/Home';
 
